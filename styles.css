@@ -229,7 +229,7 @@ body {
 .contact-linkcard:hover {
   transform: translateY(-4px);
   box-shadow: 0 22px 48px rgba(123, 77, 255, 0.18);
-  border-color: rgba(123, 77, 255, 0.35);
+  border-color: rgba(125, 78, 254, 0.35);
 }
 
 .contact-linkcard > div,
